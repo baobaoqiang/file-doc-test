@@ -1,0 +1,8 @@
+site_name: "file-doc-test"
+site_description: "sdfsfsf"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
